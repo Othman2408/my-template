@@ -1,1 +1,2 @@
-# My first time coding template using HTML and CSS only.
+# Details
+* My first try in design and coding templates using HTML and CSS only.
