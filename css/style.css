@@ -214,7 +214,7 @@ section .container h1 a:hover {
 
 .video .container .video-title-container .shadow {
   z-index:-1;
-  color:#30363d81;
+  color:rgba(48, 54, 61, 0.35);
 }
 
 .video .container .video-title-container:hover .shadow{
@@ -496,7 +496,7 @@ section .container h1 a:hover {
 
 .article .container .article-title-container .shadow {
   z-index:-1;
-  color:rgba(48, 54, 61, 0.37);
+  color:rgba(48, 54, 61, 0.35);
 }
 
 .article .container .article-title-container:hover .shadow{
