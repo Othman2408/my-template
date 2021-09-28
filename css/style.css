@@ -1098,6 +1098,9 @@ footer .container .follow p {
   font-size: 12px;
   font-weight:600;
 }
+footer .container .follow p a {
+  text-decoration: none;
+}
 footer .container .follow p span {
   color: #DC5C68;
   cursor: pointer;  
